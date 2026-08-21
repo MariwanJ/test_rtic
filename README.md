@@ -7,4 +7,12 @@ Based on the samples provided by the library, I modified this to work with the N
 
 Use it at your own risk!
 
+
+
+
+## Be honest about Rust
+
+[![](http://img.youtube.com/vi/skwD5JqMfwM/0.jpg)](https://youtu.be/skwD5JqMfwM "Be honest about Rust")
+
+
 Mariwan Jalal
